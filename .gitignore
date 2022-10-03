@@ -1,0 +1,20 @@
+# Todas las presentaciones:
+*.pptx
+
+# Los entornos virtuales:
+**/venv/
+
+# Las variables de entorno:
+*.env
+
+# Todos los HTML:
+*.html
+
+# Para el primer día:
+/01. APIS
+
+# Para el segundo día:
+/02. Scraping
+
+# Para el tercer día:
+/03. Bot

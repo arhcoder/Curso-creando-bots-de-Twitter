@@ -1,0 +1,20 @@
+WEB PARA PRACTICAR SCRAPING:
+
+    * https://toscrape.com/
+
+    PARA PRACTICAR SCRAPING DE FRASES:
+
+        * http://quotes.toscrape.com/
+
+    PARA PRACTICAR SCRAPING CON VENTA DE LIBROS:
+
+        * http://books.toscrape.com/
+
+WEB PARA OBTENER LETRAS DE CANCIONES:
+
+    * https://lyricsfreak.com/
+
+WEBS (DESCARTADAS) PARA HACER SCRAPING DE LETRAS DE CANCIONES:
+
+    * https://genius.com/
+    * https://metrolyrics.pro/

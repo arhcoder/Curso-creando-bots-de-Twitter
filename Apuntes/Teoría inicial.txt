@@ -1,0 +1,74 @@
+
+    0. ¿QUÉ ES INTERNET?
+    ES IMPORTANTE PRIMERO ENTENDER TÉCNICAMENTE CÓMO FUNCIONA
+    INTERNET; EXPLICANDO LOS SIGUIENTES PUNTOS:
+
+        * Es una red de redes.
+        * Entre muchas computadoras del mundo.
+        * La gran mayoría de internet son cables submarinos.
+        * Ver un mapa de los cables submarinos.
+
+        |
+        v
+
+        * Un navegador en realidad es un explorador de archivos.
+        * En un navegador se pueden ver archivos locales y archivos de internet.
+        * Para ambos casos, se escribe en la barra de búsqueda la ruta del archivo.
+        * Cuando el archivo es local (está en la misma computadora), se le dice que
+        apunte al localhost (127.0.0.1), y cuando es otra computadora, se le da la
+        dirección IP de la misma.
+
+        |
+        v
+
+        * Las direcciones IP son números que identifican a una computadora dentro
+        de una red, y la IP depende de en qué red se le considere; si es internet,
+        la IP es global, si es en una red local (de casa u oficina), la IP es diferente.
+        * Al colocar en el navegador la direción IP, lo que estámos haciendo es la
+        PETICIÓN de contectarse.
+        * Las computadoras que forman internet son en su mayoría "servidores".
+        * Al contectarse a una página web, lo que se hace es encontrar una ruta
+        desde la computadora, hasta el ruter, hasta la siguiente estación... hasta
+        que llega a la computadora de destino, y guarda la ruta (traza).
+
+        |
+        v
+
+        * Las páginas en lugar de IP, tienen DNS para facilitar su búsqueda.
+        * AL conectarse a una web, en realidad lo que se hace es hacer una PETICIÓN
+        para que te muestre todos los archivos que tiene para mostrarte. Como navegar
+        en el explorador de archivos, pero de otra computadora.
+        * Se hace un ejemplo con el comando "tracert"; con "twitter.com", "discord.com"
+        "youtube.com", "uaa.mx", etc.
+        * Se explica lo que es el ping y se hacen ejemplos con el comando.
+
+        |
+        v
+
+        * Se explica que cuando se hace una petición, la página te envía "algo".
+        * A menudo ese ALGO son archivos "HTML".
+        * En realidad, como los navegadores son exploradores de archivos; pueden
+        abrir cualquier archivo, pero por excelencia suelen mandar HTML.
+        * Se explica qué son los arhcivos HTML.
+
+        |
+        v
+
+        * Los BOTS son programas que "simulan" lo que hace un humano al usar
+        una computadora.
+        * Cuando una persona entra en una página, el navegador hace todo el trabajo
+        de buscar la ruta, encontrar los archivos y mostrarlos.
+        * Un bot desde código imita todo este comportamiento.
+        * Los bots también pueden simular la interacción con un archivo.
+
+        |
+        v
+
+        * También puede ser necesaria la explicación de qué es un programa, para
+        aquellos quienes son de primer semestre.
+        * Se explica qué son las APIS; que son un modo de facilitar las conexiones
+        entre servicios a través de software.
+        * Una API permite enviar y recibir datos a través de dos paginas, a través
+        de algo llamado "HTTP REQUESTS" (PETICIONES HTTP) por lo general.
+        * Dos modos en que extraerémos información de páginas es a través de APIS;
+        y a través de Scraping, que es acceder a dichos HTML y escarvar sus datos.

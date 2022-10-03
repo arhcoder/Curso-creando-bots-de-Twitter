@@ -1,0 +1,15 @@
+PORTAL DE DESARROLLADORES DE TWITTER:
+	* https://developer.twitter.com
+
+PORTAL DE DESARROLLADORES DE GENIUS:
+	* https://genius.com/developers
+
+PORTAL DE DESARROLLADORES DE SPOTIFY:
+	* https://developer.spotify.com
+
+DOCUMENTACIÓN DE LA API DE SPOTIFY PARA
+APLICACIONES WEB:
+	* https://developer.spotify.com/documentation/web-api/
+
+PORTAL DE DESARROLLADORES DE MARVEL:
+	* https://developer.marvel.com

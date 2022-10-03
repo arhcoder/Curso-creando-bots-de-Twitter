@@ -1,0 +1,28 @@
+1. PLATAFORMA DE DESARROLLADORES DE TWITTER:
+
+    * https://developer.twitter.com/
+
+
+2. ESPACIO PARA DAR DE ALTA UNA APLICACIÓN DE TWITTER UNA VEZ QUE SE TIENE CUENTA:
+
+    * https://developer.twitter.com/en/portal/
+
+
+3. DOCUMENTACIÓN DE TWEEPY PARA SABER QUÉ FUNCIONES TIENE:
+
+    * https://docs.tweepy.org/
+
+
+4. DOCUMENTACIÓN DE TWEEPY CON TODAS LAS FUNCIONES DE API EXPLICADAS:
+
+    * https://docs.tweepy.org/en/stable/api.html
+
+
+5. TIENDA OFICIAL DE STEAM:
+
+    * https://store.steampowered.com/
+
+
+6. PÁGINA DE OFERTAS ESPECIALES DE STEAM:
+
+    * https://store.steampowered.com/specials/
