@@ -12,13 +12,6 @@
 
 <hr>
 
-## 🗂 Índice
-### [1️⃣ Primer día](#1%EF%B8%8F⃣-primer-día-1);
-### [2️⃣ Segundo día](#2%EF%B8%8F⃣-segundo-día-1);
-### [3️⃣ Tercer día](#3%EF%B8%8F⃣-tercer-día-1);
-
-<hr>
-
 ### 📋 Requisitos
 
 #### 🛠 Instalaciones:
@@ -34,6 +27,13 @@
 - [**Twitter Developer Portal**](https://developer.twitter.com "Twitter Developer Portal");
 - [**Spotify Developer Portal**](https://developer.spotify.com/ "Spotify Developer Portal") (Opcional);
 - [**Marvel Developer Portal**](https://developer.marvel.com) (Opcional);
+
+<hr>
+
+## 🗂 Índice
+### [1️⃣ Primer día](#1%EF%B8%8F⃣-primer-día-1);
+### [2️⃣ Segundo día](#2%EF%B8%8F⃣-segundo-día-1);
+### [3️⃣ Tercer día](#3%EF%B8%8F⃣-tercer-día-1);
 
 <hr>
 
@@ -132,7 +132,7 @@ contenidoRespuesta = respuesta.content.decode("utf-8")
 <hr>
 
 #### 🔰 xPath:
-**⭕ Revisar** [**carpeta de apuntes**]();
+**⭕ Revisar** [**carpeta de apuntes**](https://github.com/arhcoder/Curso-creando-bots-de-Twitter/tree/master/Apuntes/xPath);
 
 #### 🔰 xPath en Python:
 Instalar librería
