@@ -1,0 +1,50 @@
+    
+    0. Ya explicada la parte teórica y con un entendimiento
+    general sobre las APIS, se procede a recordar el concepto
+    de HTTP Requests, y se procede a dar la explicación de un
+    HTTP Request, así como de sus partes.
+
+    1. Se procede a hacer la analogía de que una petición es
+    similar al modo en que se abre una página web, sin
+    embargo, las APIS tienen cierto funcionamiento especial,
+    pues en lugar de regresar un archivo HTML, suelen dar
+    archivos de texto especiales, como los archivos JSON;
+
+    2. Se procede a dar explicación sobre los archivos JSON;
+    Se abren ejemplos con:
+    https://uselessfacts.jsph.pl/
+    Se lee la documentación y se utiliza un ejemplo;
+
+    3. Se toma la API de gatos y se hace un ejemplo de cómo
+    obtener una imágene aleatoria de gatos...
+    https://api.thecatapi.com/v1/images/search
+    HAY QUE ACLARAR QUE EL MODO COMÚN DE LLAMAR A LA FUNCIÓN
+    QUE CONSUME UNA API EN OTROS LENGUAJES, ES "fetch()";
+
+    --------------------------------------------------------
+
+    3. Se abre la lista de cientos de APIS:
+    https://github.com/public-apis/public-apis
+
+    4. Se elige una al azar y se abre su contenido...
+    Se procede a realizar un ejercicio con una de estas APIS...
+
+    (No se hará si quedan menos de 35 minutos de clase)
+    5. Se selecciona otra y se les pide hacer otro ejercicio...
+
+    6. Charly mostrará su ejercicio con la API de Pokemón...
+
+    8. (DESCARTADO) ---------------------------------------
+    Ejercicio de obtener letra de canción con Genius.com...
+    Este ejercicio funciona de transición para pasar al
+    tema de Scraping...
+    Este ejercicio plantea encontrar la letra de una
+    canción dado el nombre, y se plantea ser terminado
+    de explicar en el primer día para poder hacer el
+    ejercicio de obtener la letra de una canción, pero
+    mediante Scraping; al siguiente día...
+    (SUSTITUTO POR EJERCICIO DE SPOTIFY);
+
+    9. Se mostrará el ejercicio de la API de Spotify:
+    Este ejercicio busca las 10 canciones más populares
+    de una banda elegida... (SI QUEDA TIEMPO DEL DÍA);
